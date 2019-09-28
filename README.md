@@ -64,7 +64,7 @@ Each server should have a unique set of values.
 #### Remove Container
 
     docker stop nginx-server
-    docker rm rnginx-server
+    docker rm nginx-server
 
 ### Remove Image
 
